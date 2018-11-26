@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Assignment2-CPRG307"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="ojdbc6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/ojdbc6.jar!/"/>
+	</lib>
+</component>
